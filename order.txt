@@ -1,0 +1,10 @@
+1.Basic Structure of a Website
+2.Title, Script, Link & Meta Tags
+3.Headings & Paragraphs
+4.Img and Anchor tags
+5.Lists and Tables 
+6.Forms & Input Tags
+7.Inline & Block Elements 
+8.Ids & Classes in HTML
+9.HTML Entities
+10.Semantic Tags in HTML
