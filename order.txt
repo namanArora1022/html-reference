@@ -9,3 +9,4 @@
 9.HTML Entities
 10.Semantic Tags in HTML
 11.Favicon
+12.Pre and Code tag
